@@ -172,4 +172,3 @@
  "nbformat": 4,
  "nbformat_minor": 5
 }
-© 2021 GitHub, Inc.
