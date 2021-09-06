@@ -1,0 +1,62 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "58860604",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "{'1': {'name': 'Choco Cake', 'qn': 26, 'pr': 100},\n",
+       " '2': {'name': 'Choco Cake', 'pr': 100, 'qn': 25},\n",
+       " '3': {'name': 'Milk', 'pr': 56.78, 'qn': 1},\n",
+       " '4': {'name': 'Toy', 'pr': 67.0, 'qn': 89},\n",
+       " '5': {'name': 'Cloth', 'pr': 45.0, 'qn': 89},\n",
+       " '6': {'name': 'Milk', 'pr': 56.78, 'qn': 89},\n",
+       " '7': {'name': 'Milk', 'pr': 78.0, 'qn': 2},\n",
+       " '8': {'name': 'Milk', 'pr': 78.0, 'qn': 2},\n",
+       " '9': {'name': 'Milk', 'pr': 78.0, 'qn': 2}}"
+      ]
+     },
+     "execution_count": 4,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "{\"1\": {\"name\": \"Choco Cake\", \"qn\": 26, \"pr\": 100}, \"2\": {\"name\": \"Choco Cake\", \"pr\": 100, \"qn\": 25}, \"3\": {\"name\": \"Milk\", \"pr\": 56.78, \"qn\": 1}, \"4\": {\"name\": \"Toy\", \"pr\": 67.0, \"qn\": 89}, \"5\": {\"name\": \"Cloth\", \"pr\": 45.0, \"qn\": 89}, \"6\": {\"name\": \"Milk\", \"pr\": 56.78, \"qn\": 89}, \"7\": {\"name\": \"Milk\", \"pr\": 78.0, \"qn\": 2}, \"8\": {\"name\": \"Milk\", \"pr\": 78.0, \"qn\": 2}, \"9\": {\"name\": \"Milk\", \"pr\": 78.0, \"qn\": 2}}\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "e3d632b0",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.8.8"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
